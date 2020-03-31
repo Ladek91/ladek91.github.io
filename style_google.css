@@ -1,0 +1,104 @@
+.conteneur_navbar 
+{
+    display: flex;
+    flex-wrap: nowrap;
+    height: 150px;
+    justify-content: flex-end;
+}
+
+.central
+{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    justify-content: center;
+}
+
+.logo
+{
+    display: flex;
+    justify-content: center;
+}
+.searchbar
+{
+    display: flex;
+    justify-content: center;
+}
+.bouton
+{
+    display: flex;
+    justify-content: center;
+}
+.covid_text
+{
+    display: flex;
+    justify-content: center;
+}
+
+.footer1
+{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.footer2
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+.footleft
+{
+    display: flex;
+    flex-wrap: nowrap;
+    height: 150px;
+    justify-content: flex-end;    
+}
+
+.footright
+{
+    display: flex;
+    flex-wrap: nowrap;
+    height: 150px;
+    justify-content: flex-end;    
+}
+
+
+
+
+ /*
+
+     display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+.logodd
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin:30px;
+    padding: 0px;
+    background-color: white;
+    height: 400px;
+    width: 1300px;
+    margin-top: 30px;
+     text-align:center;
+}
+
+
+
+#topsection {
+  display:flex;
+}
+
+ul {
+  list-style-type: none;
+}
+
+p {
+  width: 80%;
+  text-align: justify;
+  margin-left:auto;
+  margin-right:auto;
+}
+*/
